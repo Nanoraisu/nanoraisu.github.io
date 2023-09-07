@@ -1,5 +1,4 @@
 ## Lari Helminen web-tehtävä
-<! - - - kommentti - - - !>
 
 #### Italics and bold
 
