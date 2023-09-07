@@ -1,4 +1,4 @@
-## Lari Helminen web-tehtävä [Otsikko]: #
+## Lari Helminen web-tehtävä []: #Otsikko
 
 #### Italics and bold
 
