@@ -1,6 +1,3 @@
-<!---
-Otsikko
----!>
 {::comment}
 Otsikko
 {:/comment}
