@@ -1,6 +1,6 @@
-## Lari Helminen web-tehtävä
+## Lari Helminen web-tehtävä []: #Otsikko
 
-####Italics and bold
+#### Italics and bold
 
 Writing in Markdown is _not_ that hard!
 
@@ -23,7 +23,7 @@ HEADERS
 
 Here's some words about the book _One Hundred Years..._.
 
-####Links
+#### Links
 
 [Search for it.](www.google.com)
 
