@@ -1,6 +1,7 @@
-## Lari Helminen web-tehtävä
 
-### _Italics_ and **bold**
+## Lari Helminen web-tehtävä <!--Otsikko-->
+
+### _Italics_ and **bold** <!--1. väliotsikko-->
 
 Writing in Markdown is _not_ that hard!
 
@@ -12,7 +13,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 ---
 
-### **Headers**
+### **Headers** <!--2. väliotsikko-->
 
 # Header one  
 ## Header two  
@@ -27,24 +28,24 @@ Here's some words about the book _One Hundred Years..._.
 
 ---
 
-### Links
+### Links <!--3. väliotsikko-->
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: https://www.zombo.com
+[another fun place]: https://www.stumbleupon.com
 
 ---
 
-### Images
+### Images <!--4. väliotsikko-->
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -57,7 +58,7 @@ Well, do I have [the website for you][another fun place]!
 
 ---
 
-### Blockquotes
+### Blockquotes <!--5. väliotsikko-->
 
 I read this interesting quote the other day:
 
@@ -74,7 +75,7 @@ I read this interesting quote the other day:
 
 ---
 
-### Lists
+### Lists <!--6. väliotsikko-->
 
 * Flour
 * Cheese
@@ -113,7 +114,7 @@ I read this interesting quote the other day:
 
 ---
 
-### Paragraphs
+### Paragraphs <!--7. väliotsikko-->
 
  We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
